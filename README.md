@@ -24,10 +24,11 @@ console.log(x);
 VM198:1 20
 undefined
 
-QUESTÂO2:
-// 1. Definimos qual é o usuário e senha "corretos" (fixos, para teste)
+##QUESTÂO2:
+  // 1. Definimos qual é o usuário e senha "corretos" (fixos, para teste)
 const usuarioCorreto = "admin";
 const senhaCorreta = "1234";
+
 
 // 2. Pedimos para o usuário digitar usuário e senha
 let usuarioDigitado = prompt("Digite o usuário:");
